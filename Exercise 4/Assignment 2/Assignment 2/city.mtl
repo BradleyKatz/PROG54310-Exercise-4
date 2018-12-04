@@ -1,0 +1,218 @@
+newmtl Glass
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\glass_dif.png
+illum 2
+
+newmtl Leg
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\leg_dif.png
+illum 2
+
+newmtl Hand
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\hand_dif.png
+illum 2
+
+newmtl Arm
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\arm_dif.png
+illum 2
+
+newmtl Helmet
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\helmet_diff.png
+illum 2
+
+newmtl Body
+Kd 0.64 0.64 0.64
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\body_dif.png
+illum 2
+
+newmtl M_paintedmetal
+Kd 1 0.4974093 0
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_N.png
+illum 2
+
+newmtl Mud
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\mud.png
+illum 2
+
+newmtl M_concrete_E
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteE_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteE_N.png
+illum 2
+
+newmtl Atlas
+Kd 1 1 1
+Ks 0.6470588 0.6175277 0.2188582
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\atlas.png
+illum 2
+
+newmtl Leaves_V01
+Kd 0.5882353 0.5882353 0.5882353
+Ks 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\tree_DIF.png
+illum 2
+
+newmtl Leaves_02
+Kd 1 0 0
+Ks 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\tree_DIF.png
+illum 2
+
+newmtl Trash_02_New
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Trash_02_new_d.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Trash_02_n.png
+illum 2
+
+newmtl M_glass
+Kd 0.05034899 0.04589 0.065
+illum 2
+
+newmtl M_wall_A
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WallWindowA_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WallWindowA_N.png
+illum 2
+
+newmtl M_winframe_B
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowB_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowB_N.png
+illum 2
+
+newmtl M_wall_B
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WallWindowB_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WallWindowB_N.png
+illum 2
+
+newmtl M_bronze
+Kd 0.8039216 0.4980392 0.1960784
+illum 2
+
+newmtl M_winframe_A
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_N.png
+illum 2
+
+newmtl M_concrete_A
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteA_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteA_N.png
+illum 2
+
+newmtl M_roof
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_roof_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_roof_N.png
+illum 2
+
+newmtl M_wood
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_wood_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_wood_N.png
+illum 2
+
+newmtl Leavas_03
+Kd 0.7426471 0.4763184 0
+Ks 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\tree_DIF.png
+illum 2
+
+newmtl Branches_0
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\BroadleafBark.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\BroadleafBark_Normal.png
+illum 2
+
+newmtl Leaves_1
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Broadleaf_Mobile_Atlas.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Broadleaf_Mobile_Atlas_Normal.png
+illum 2
+
+newmtl Grass
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\grass.png
+illum 2
+
+newmtl Bench_01_New
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Bench_01_New_D.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Bench_01_N.png
+illum 2
+
+newmtl M_streetlight
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_streetlight_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_streetlight_N_DirectX.png
+illum 2
+
+newmtl Material__Block
+Kd 1 0.7358065 0.475
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Stone_Block_Albedo.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Stone_Block_Normal.png
+illum 2
+
+newmtl Material__Lion
+Kd 1 0.7358065 0.475
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Lion_Statue_Albedo.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Lion_Statue_Normal.png
+illum 2
+
+newmtl Hydrant_01_New
+Kd 1 1 1
+Ks 0.2 0.2 0.2
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Hydrant_01_New_D.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Hydrant_01_N.png
+illum 2
+
+newmtl M_reddoor
+Kd 1 0.25 0.25
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_WindowA_N.png
+illum 2
+
+newmtl M_Pavement
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_pavement_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_pavement_N.png
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl CarRig
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\CarRig.png
+illum 2
+
+newmtl car1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\car1.png
+illum 2
+
+newmtl Car2
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\Car2.png
+illum 2
+
+newmtl carvan
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\carvan.png
+illum 2
+
+newmtl M_road
+Kd 1 1 1
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_road_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_road_N.png
+illum 2
+
+newmtl M_concrete_B
+Kd 1 0.9421875 0.9062499
+map_Kd F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteB_B.png
+map_Bump F:\Sheridan\Fall Term\Computer Graphics and Animation\Assignments\Assignment 2\Assignment 2\Assignment 2\T_concreteB_N.png
+illum 2
+
